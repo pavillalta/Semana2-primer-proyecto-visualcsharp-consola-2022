@@ -10,7 +10,15 @@ namespace Semana2_primer_proyecto_visualcsharp_consola
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Primer Cambio de Código");
+            Console.WriteLine("Primer programa consola");
+
+            int a = 10;
+            int b = 20;
+            int c = a + b;
+
+            Console.WriteLine(c);
+            Console.WriteLine("Ejemplo de variables y operadores");
+            Console.ReadKey();
         }
     }
 }
