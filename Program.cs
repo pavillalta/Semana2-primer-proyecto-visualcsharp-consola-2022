@@ -10,7 +10,7 @@ namespace Semana2_primer_proyecto_visualcsharp_consola
     {
         static void Main(string[] args)
         {
-
+            Console.WriteLine("Primer Cambio de Código");
         }
     }
 }
